@@ -1,0 +1,16 @@
+http://lar_training.xyz
+http://lar_training.xyz/about
+http://lar_training.xyz/category/1
+http://lar_training.xyz/admin/category/edit/2
+http://lar_training.xyz
+
+MVC Model View Controller
+
+Quản lí user : http://lar_training.xyz/admin/user
+Quản lí Slider : http://lar_training.xyz/admin/slider
+Quản lí Category : http://lar_training.xyz/admin/category
+
+Quản lí chi tiết Slider :
+Danh sách Slider : http://lar_training.xyz/admin/slider
+Edit Slider : http://lar_training.xyz/admin/slider/edit/12
+Xoá Slider : http://lar_training.xyz/admin/slider/delete/12
